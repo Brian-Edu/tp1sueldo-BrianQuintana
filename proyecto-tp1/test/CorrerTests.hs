@@ -1,5 +1,5 @@
 import Spec
-import PdePreludat
+import PdePreludat ( IO )
 
 main :: IO ()
 main = correrTests
